@@ -1,4 +1,4 @@
-# 
+# elite dydx trading bot Tool | market-making + rug-pull-detection is the best dydx trading bot, featuring market-making and rug-pull-detection. Smart, fast, and optimized for
 
 
 
